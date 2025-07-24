@@ -18,12 +18,12 @@ To evaluate refund-heavy categories and regions, diagnose root causes behind ope
 •	Where are high-risk zones?  
 •	What’s causing cancellation and delays?
 
-Root Cause Analysis & Insights:
-Insight --  Root cause --	Suggested fix
-High returns in  Home & Kitchen	-- Fragile/delicate items, poor images --	Improve product visuals & packaging
-Max refund loss in North	-- High return volume --	Audit sellers & category quality
-Most returns due to Cancellation by Buyer	-- Delay anxiety, unclear ETA	-- Real-time alerts & faster dispatch
-Longest delivery delay in South & North --	Warehouse lag, courier mismatch	-- Reroute orders, partner regionally
+Root Cause Analysis & Insights;
+ Insight --  Root cause --	Suggested fix: 
+  High returns in  Home & Kitchen	-- Fragile/delicate items, poor images --	Improve product visuals & packaging
+  Max refund loss in North	-- High return volume --	Audit sellers & category quality
+  Most returns due to Cancellation by Buyer	-- Delay anxiety, unclear ETA	-- Real-time alerts & faster dispatch
+  Longest delivery delay in South & North --	Warehouse lag, courier mismatch	-- Reroute orders, partner regionally
 
 
 Visuals & Dashboard Charts
@@ -40,7 +40,7 @@ Dashboard_Report_Project2.pdf - Excel dashboard (charts + summary)
 notebook.ipynb -  Python analysis notebook 
 README.md - Project summary & documentation 
 
- Outcome
+ Outcome:
 Created an end-to-end operational insight pipeline using real-world KPIs and business logic.  
 Project demonstrates problem-solving, hybrid tool usage, and readiness for business analyst & category ops roles.
 Note: Data is simulated and intended for portfolio/demo purposes only.
